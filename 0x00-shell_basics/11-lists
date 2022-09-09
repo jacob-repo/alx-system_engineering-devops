@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -all && ls -all /alx-system_engineering-devops && ls /boot
+ls -all
+ls -all /alx-system_engineering-devops
+ls /boot
